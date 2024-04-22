@@ -14,7 +14,7 @@ body {
   padding: 0;
   color: white;
   font-family: 'Poppins', sans-serif;
-  background-image: url(/images/bg-intro-mobile.png);
+  background-image: url(images/bg-intro-mobile.png);
   background-repeat: no-repeat, repeat;
   background-position-y: 25px;
   background-color: #ff7a7a;
@@ -30,7 +30,7 @@ body {
     display: flex;
     padding-left: 9.375rem;
     padding-right: 8.4375rem;
-    background-image: url(/images/bg-intro-desktop.png);
+    background-image: url(images/bg-intro-desktop.png);
     margin-top: 7.5rem;
   }
 }
